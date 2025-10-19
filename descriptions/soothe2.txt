@@ -1,0 +1,4 @@
+Soothe2 is a dynamic resonance suppressor. It identifies problematic resonances on the fly and applies matching reduction automatically. 
+This results in a smoother, more balanced sound and saves you from having to notch out frequencies by hand. 
+The reduction only kicks in when and where needed, without affecting nearby frequency areas. 
+This preserves the timbre of the original sound source resulting in a transparent treatment with minimal artifacts.
