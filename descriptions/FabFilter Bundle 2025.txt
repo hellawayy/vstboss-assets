@@ -1,0 +1,23 @@
+The Total Bundle is a set of all FabFilter plug-ins.
+With this bundle, you get our professional EQ, reverb, compressor, multiband dynamics, limiter,
+de-esser and gate/expander, creative multiband distortion, delay, filter and synthesizer plug-ins.
+ГАЙД:
+Удаление
+------------------------------------------
+Если у вас ранее был установлен Total Bundle (программа установки Total Bundle с .exe файлом), удалите его.
+
+Установка
+------------------------------------------
+1. Смонтируйте ISO-файл.
+2. Установите то, что вы хотите.
+Вы можете использовать программу пакетной установки *.cmd.
+Отдельные установщики включены в папку .\installer.
+
+Регистрация
+------------------------------------------
+Запустите FabFilter_KeyGen.exe и нажмите "Register".
+Вот и все.
+
+Если вы хотите зарегистрировать продукты вручную, нажмите "Generate".
+На рабочем столе будет создан "FabFilter Licenses.txt".
+Зарегистрируйте лицензии на плагины.
