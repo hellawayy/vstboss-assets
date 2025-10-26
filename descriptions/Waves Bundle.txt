@@ -1,0 +1,22 @@
+Popular vocal production plugins: Waves Tune Real-Time, Vocal Bender, Waves Harmony, and beyond. Analog models from Abbey Road to API to SSL. All CLA plugins.
+The classic Renaissance series. The innovative AI-powered Clarity Vx series. Mastering tools used on countless releases. 
+Waves offers the most complete set of pro-quality audio plugins, anywhere.
+ГАЙД:
+1. Распаковать архив Central_Offline_Latest_andApps_Win.zip
+2. Установить Waves Central, запустить, войти в "install from an offline installer" и указать на распакованную папку Waves 6.8.25 Win
+pic
+4. Запустить один из плагинов в DAW и закрыть (чтобы создались нужные папки)
+5. Папку WavesLicenseEngine.bundle поместить с заменой в
+Код:
+%PROGRAMDATA%\Waves Audio\Modules она же C:\ProgramData\Waves Audio\Modules
+если не получается заменить, значит в диспетчере задач висят какие-то процессы от Waves. Снимите с них задачу.
+
+6. Запустить Show_Me_Devices.cmd - он вам отобразит ID устройства и место куда нужно будет поместить файл лицензии, который сгенерируется кейгеном.
+7. Запустить Waves_Keygen.exe, вписать в него ID из пункта выше(№6), нажать "GENERATE" и сохранить полученный файл
+8. Поместить файл в директорию, которая была указана при запуске Show_Me_Devices.cmd . Обычно это
+Код:
+%PROGRAMDATA%\Waves Audio\Licenses она же C:\ProgramData\Waves Audio\Licenses
+Если впоследствии захотите установить ещё плагины, то повторите "процедуру"
+
+Важно!
+Семплы для инструментов устанавливаются только ONLINE
